@@ -9,6 +9,7 @@ public class Addition {
     this.num2 = num2;
     this.num3 = num3;
 
+
   }
 
   public int getSum() {
